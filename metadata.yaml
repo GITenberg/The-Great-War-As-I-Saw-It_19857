@@ -1,0 +1,28 @@
+_repo: The-Great-War-As-I-Saw-It_19857
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, Frederick George
+    birthdate: 1861
+    deathdate: 1944
+    gutenberg_agent_id: '8925'
+    url: http://www.gutenberg.org/2009/agents/8925
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19857'
+  lccn: '23003186'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Canada'
+- !lcc 'D501'
+title: The Great War As I Saw It
+url: http://www.gutenberg.org/ebooks/19857
